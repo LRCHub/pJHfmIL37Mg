@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "スマイル*シンフォニー",
   "base_artist": "ワンダーランズ×ショウタイム",
-  "createdAt": "2025-12-01T15:37:21.605593Z",
+  "createdAt": "2025-12-28T15:28:10.534925Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,22 +27,6 @@
       "artist": "ワンダーランズ×ショウタイム",
       "has_synced": false,
       "path": "select/pl_01_スマイル_シンフォニー_ワンダーランズ×ショウタイム.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "スマイル*シンフォニー",
-      "artist": "ワンダーランズ×ショウタイム",
-      "has_synced": false,
-      "path": "select/pl_02_スマイル_シンフォニー_ワンダーランズ×ショウタイム.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "スマイル*シンフォニー / バーチャル・シンガーver.",
-      "artist": "ワンダーランズ×ショウタイム",
-      "has_synced": false,
-      "path": "select/pl_03_スマイル_シンフォニー___バーチャル・シンガーver._ワンダーランズ×ショウタイム.txt"
     }
   ]
 }
